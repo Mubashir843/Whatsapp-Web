@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --breakpoint-xs: 30rem;
+}
+@layer base {
+  body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+}
